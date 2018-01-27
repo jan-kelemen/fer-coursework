@@ -18,6 +18,8 @@ Repository with links to coursework project of various courses I attended at FER
 * [SBP - Sustavi baza podataka (Database Systems)](https://gitlab.com/jan-kelemen/s-b-p)
 * [RIS - Razvoj informacijskih sustava (Development of Information Systems)](https://gitlab.com/jan-kelemen/r-i-s)
 * [AVSP - Analiza velikih skupova podataka (Analysis of Massive Data Sets)](https://gitlab.com/jan-kelemen/a-v-s-p)
+* [HMO - Heuristicke metode optimizacija (Heuristic Optimization Methods)](https://gitlab.com/jan-kelemen/h-m-o)
+* [RZNU - Racunarstvo zasnovano na uslugama (Service-Oriented Computing)](https://gitlab.com/jan-kelemen/r-z-n-u)
 
 ## Papers
 * [ZR - Završni rad (BSc Thesis)](https://github.com/jan-kelemen/bachelor-thesis)
