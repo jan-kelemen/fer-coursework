@@ -20,7 +20,13 @@ Repository with links to coursework project of various courses I attended at FER
 * [AVSP - Analiza velikih skupova podataka (Analysis of Massive Data Sets)](https://gitlab.com/jan-kelemen/a-v-s-p)
 * [HMO - Heuristicke metode optimizacija (Heuristic Optimization Methods)](https://gitlab.com/jan-kelemen/h-m-o)
 * [RZNU - Racunarstvo zasnovano na uslugama (Service-Oriented Computing)](https://gitlab.com/jan-kelemen/r-z-n-u)
+* [RACFOR - Racunalna forenzika (Computer Forensics)](https://gitlab.com/jan-kelemen/FER/tree/master/RACFOR)
+* [MAS - Multimedijske arhitekture i sustavi (Multimedia Architecture and Systems)](https://gitlab.com/jan-kelemen/m-a-s)
 
 ## Papers
+* [SEM - Seminar (Seminar)](https://gitlab.com/jan-kelemen/FER/tree/master/SEM)
 * [ZR - Završni rad (BSc Thesis)](https://github.com/jan-kelemen/bachelor-thesis)
 * [DIPLSEM - Diplomski seminar (Seminar)](https://github.com/jan-kelemen/dipl-sem)
+
+## Projects
+* [DIPLPRO - Diplomski projekt (Master Project)](https://github.com/jan-kelemen/dipl-pro) - for source code check [here](https://github.com/jan-kelemen/req-track)
